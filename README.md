@@ -1,1 +1,1 @@
-# composer-test-2
+# composer-test-2 (feature/composer)
