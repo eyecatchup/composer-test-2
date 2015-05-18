@@ -1,0 +1,11 @@
+{
+    "name": "eyecatchup/composer-test-2",
+    "require": {
+        "php": "*"
+    },
+	"extra": {
+        "branch-alias": {
+            "dev-feature/composer": "1.0.x-dev"
+        }
+    }
+}
